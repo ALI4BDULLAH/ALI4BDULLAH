@@ -1,7 +1,7 @@
 <!--ALI-ABDULLAH.ML-->
 # ALI4BDULLAH
 
-[![Profile-Img](https://avatars.githubusercontent.com/u/89381890?v=4"&alt="logo"&width="250"&height="250")](http://ali-abdullah.ml)
+[![Profile-Img](https://avatars.githubusercontent.com/u/89381890?s=400&u=3ddc55338d64f0ab0d14bfc1d9a25fe888759974&v=4"&alt="logo"&width="250"&height="250")](http://ali-abdullah.ml)
 
 [![Github][1.1]][1]
 [![Facebook][2.1]][2]
