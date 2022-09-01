@@ -1,7 +1,7 @@
-<!--ALI-ABDULLAH.ML-->
+<!--@ALI4BDULLAH-->
 # ALI4BDULLAH
 
-[![Profile-Img](https://avatars.githubusercontent.com/u/89381890?s=400&u=3ddc55338d64f0ab0d14bfc1d9a25fe888759974&v=4"&alt="logo"&width="250"&height="250")](http://ali-abdullah.ml)
+[![Profile-Img](https://avatars.githubusercontent.com/u/89381890?s=400&u=3ddc55338d64f0ab0d14bfc1d9a25fe888759974&v=4"&alt="logo"&width="250"&height="250")](http://aliabdullah.bio.link)
 
 [![Github][1.1]][1]
 [![Facebook][2.1]][2]
@@ -30,13 +30,13 @@
 - 🐍 Trying to learn & Enjoy
 - 🤐 Aim : Become a Devoloper
 
-[![Typing SVG](http://readme-typing-svg.herokuapp.com?color=%23F70404&center=true&vCenter=true&multiline=false&lines=Hi+There+Welcome+to+my+profile;I+am+ALI+ABDULLAH;Learning+coding+too+slow;Love+Allah;We+are+Muslims;Respect+us)](http://ali-abdullah.ml)
+[![Typing SVG](http://readme-typing-svg.herokuapp.com?color=%23F70404&center=true&vCenter=true&multiline=false&lines=Hi+There+Welcome+to+my+profile;I+am+ALI+ABDULLAH;Learning+coding+too+slow;Love+Allah;We+are+Muslims;Respect+us)](http://aliabdullah.bio.link)
 ## 🏆 Profile Statistics :
-<!--[![Profile-Views](https://gpvc.arturio.dev/ALI4BDULLAH)](http://ali-abdullah.ml)-->
+<!--[![Profile-Views](https://gpvc.arturio.dev/ALI4BDULLAH)](http://aliabdullah.bio.link)-->
 
-[![Profile-Views](https://visitor-badge.glitch.me/badge?page_id=ALI4BDULLAH&left_color=black&right_color=black&left_text=Total%20Visitors)](http://ali-abdullah.ml)
+[![Profile-Views](https://visitor-badge.glitch.me/badge?page_id=ALI4BDULLAH&left_color=black&right_color=black&left_text=Total%20Visitors)](http://aliabdullah.bio.link)
 
-[![Profile-Views](https://profile-counter.glitch.me/ALI4BDULLAH/count.svg)](http://ali-abdullah.ml)
+[![Profile-Views](https://profile-counter.glitch.me/ALI4BDULLAH/count.svg)](http://aliabdullah.bio.link)
 ## Follow me on:
 
 [![Github](https://img.shields.io/badge/GITHUB-ALI%204BDULLAH-green?colorA=%23fffff&colorB=%23000000&style=for-the-badge)](https://guthub.com/ALI4BDULLAH)
